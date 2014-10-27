@@ -1,0 +1,5 @@
+{ 
+  "AWS_REGION": "",
+  "STARTUP_SIGNUP_TABLE": "my-startup-signup-table",
+  "NEW_SIGNUP_TOPIC": "arn:aws:sns:us-east-1:441832771524:autoscaledemo"
+}
